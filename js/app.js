@@ -24,7 +24,7 @@ if (question2 === 'yes') {
   // console.log(question2);
 }
 
-let question3 = prompt("Yes/No: Do I like the outdoors?").toLowerCase();
+let question3 = prompt('Yes/No: Do I like the outdoors?').toLowerCase();
 if (question3 === 'yes') {
   alert('Yeah! I love the outdoors!');
   // console.log(question3);
