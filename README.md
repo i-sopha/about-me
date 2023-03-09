@@ -52,3 +52,11 @@ Read the document, in its entirety, before beginning your lab.*
 - Report for Class 3:
 
 ![LightHouse Report](./img/lighthousescore2.png)
+
+- Record keeping 3/9
+
+> I was Navigator on: https://github.com/JCLEYVA/about-me-isabel 
+
+> I was Driver on: https://github.com/i-sopha/Aboutme02-jeanette
+
+> Worked with [Jeanette Leyva](https://github.com/JCLEYVA)

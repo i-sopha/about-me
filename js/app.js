@@ -5,7 +5,6 @@
 let score = 0;
 
 function dogs() {
-  
   let question1 = prompt("Yes/No: Do I like dogs?").toLowerCase();
   if (question1 === 'yes') {
     alert('I do like dogs!');
