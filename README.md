@@ -46,7 +46,9 @@ Read the document, in its entirety, before beginning your lab.*
     - Follow the instructions in the “Setting Up a New Code 201 Project” document for an overview of the content that is required for your lab repo.
 
 - Report for Class 2:
+
 ![LightHouse Report](./img/lighthousescore.png)
 
 - Report for Class 3:
+
 ![LightHouse Report](./img/lighthousescore2.png)
