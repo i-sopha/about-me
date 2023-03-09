@@ -143,8 +143,8 @@ while (attemptsQ7 < 6) {
 
 }
 
-  alert('Possible correct answers: Red, blue, green');
-  
+alert('Possible correct answers: Red, blue, green');
+
 // Declare 'score' variable at the top of page before question 1
 // score++; at all correct answers
 // while loop at the bottom of last question

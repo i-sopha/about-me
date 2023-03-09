@@ -9,23 +9,64 @@ img {
 .otis {
     width: 175px;
     height: 250px;
+    transition: 1s ease;
+    opacity:0.5;
+}
+
+.otis:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    opacity:1;
 }
 
 .duke {
     width: 175px;
     height: 250px;
+    transition: 1s ease;
+    opacity:0.5;
 }
+
+.duke:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    opacity:1;
+}
+
 .barcelona {
     width: 175px;
     height: 250px;
+    transition: 1s ease;
+    opacity:0.5;
+}
+
+.barcelona:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    opacity:1;
 }
 
 .snowvalley {
     width: 175px;
     height: 250px;
+    transition: 1s ease;
+    opacity:0.5;
 }
 
-.personalpictures {
+.snowvalley:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    opacity:1;
+}
+
+#personalpictures {
     text-align: center;
     padding-top: 25px;
 }
