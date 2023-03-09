@@ -49,14 +49,34 @@ h3 {
     line-height: 3;
 }
 
-p {
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    line-height: 1.3;
+ul li {
+    list-style: circle inside none;
+}
+
+ol li {
+    list-style: number inside;
+}
+
+.education {
+
+}
+
+.experience {
+
 }
 
 .goals {
-    padding-bottom: 100px;
+
+}
+
+.bucketlist {
+    padding-bottom: 75px;
+}
+
+main {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.3;
 }
 
 footer {
