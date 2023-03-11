@@ -9,13 +9,13 @@ function dogs() {
   if (question1 === 'yes') {
     alert('I do like dogs!');
     score++;
-    // console.log(question1);
+    console.log(question1);
   } else if (question1 === 'no') {
     alert('Wrong. :( I love dogs! I have two.');
-    // console.log(question1);
+    console.log(question1);
   } else {
     alert('You were suppose to answer y/n');
-    // console.log(question1);
+    console.log(question1);
   }
 }
 
@@ -23,14 +23,14 @@ function height() {
   let question2 = prompt("Yes/No: Do you think I am taller than 5' 6''?").toLowerCase();
   if (question2 === 'yes') {
     alert("Close! I am 5' 4''");
-    // console.log(question2);
+    console.log(question2);
   } else if (question2 === 'no') {
     alert("Correct! I am 5' 4''");
     score++;
-    // console.log(question2);
+    console.log(question2);
   } else {
     alert('You were suppose to answer y/n');
-    // console.log(question2);
+    console.log(question2);
   }
 }
 
@@ -39,13 +39,13 @@ function outdoors() {
   if (question3 === 'yes') {
     alert('Yeah! I love the outdoors!');
     score++;
-    // console.log(question3);
+    console.log(question3);
   } else if (question3 === 'no') {
     alert('Wrong. I love the outdoors!');
-    // console.log(question3);
+    console.log(question3);
   } else {
     alert('You were suppose to answer y/n');
-    // console.log(question3);
+    console.log(question3);
   }
 }
 
@@ -55,13 +55,13 @@ function pizza() {
   if (question4 === 'yes') {
     alert('Yes I do!! You were hoping I said no, werent you?');
     score++;
-    // console.log(question4);
+    console.log(question4);
   } else if (question4 === 'no') {
     alert('Incorrect. Bring me the pineapples!');
-    // console.log(question4);
+    console.log(question4);
   } else {
     alert('You were suppose to answer y/n');
-    // console.log(question4);
+    console.log(question4);
   }
 }
 
@@ -70,13 +70,13 @@ function pinaColadas() {
   if (question5 === 'yes') {
     alert('Yes! and getting caught in the rain.');
     score++;
-    // console.log(question5);
+    console.log(question5);
   } else if (question5 === 'no') {
     alert('Ehhh wrong! They\'re delicious!');
-    // console.log(question5);
+    console.log(question5);
   } else {
     alert('You were suppose to answer y/n');
-    // console.log(question5);
+    console.log(question5);
   }
 }
 
